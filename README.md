@@ -29,8 +29,8 @@
 1. Если девайс находится в landscape ориентации, то расположите фрагменты на одном уровне иерархии. В фрагмент **FragmentBB** добавьте кнопку, 
    по нажатию на которую программа получит цвет из рандомайзера **ColorGenerator** и передаст его в **FragmentBA**, используя **FragmentResultListener**.
    Покрасте фон **FragmentBA** в полученный цвет.
-   [Landscape](./readme/task2Landscape.webp)
+   ![Landscape](./readme/task2Landscape.webp)
 2. Если девайс находится в portrait ориентации, добавьте в **FragmentBA** кнопку, по нажатию на которой будет открываться **FragmentBB**, на том же уровне 
    иерархии, что и **FragmentBA**. В **FragmentBB** добавьте кнопку, которая получит цвет из рандомайзера **ColorGenerator** и вернет результат в **FragmentBA**.
    Как и в пункте 1, покрасте фон **FragmentBA** в полученный цвет.
-   [Portrait](./readme/task2Portrait.webp)
+   ![Portrait](./readme/task2Portrait.webp)
